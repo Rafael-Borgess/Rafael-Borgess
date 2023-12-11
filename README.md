@@ -1,9 +1,9 @@
 Olá, eu sou Rafael Medeiros Borges
-Aprendendo a Programar | Futuro Estudante de Ciência da Computação
+Aprendendo a Programar | Acadêmico de engenharia de software 
 Bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta da programação, atualmente em busca de conhecimentos para me tornar um desenvolvedor de software. Aqui estão algumas informações sobre mim:
 
 🔭 Atualmente estou aprendendo e praticando as linguagens HTML, CSS e JavaScript
-🌱 Tenho o objetivo de iniciar uma faculdade de Ciência da Computação em breve
+🌱 Tenho o objetivo de iniciar uma faculdade de Engenharia de Software em breve
 👯 Estou animado(a) para colaborar em projetos interessantes e aprender com outros desenvolvedores
 📫 Como entrar em contato comigo: rafaell.medeirosborges@gmail.com
 Habilidades em Destaque
